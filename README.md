@@ -10,3 +10,5 @@ Modules used in this script.
 
 # Auth Token
 You can get your token from inspect element's network panel.
+
+# Feel Free to contribute
